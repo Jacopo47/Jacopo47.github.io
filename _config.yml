@@ -21,8 +21,7 @@
 title: Jacopo Riciputi
 email: jacopo.riciputi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Software engineer and I work mostly on JVM's languages. 
-  This site actually does not aim to nothing, it's build mostly for fun and in order to share the parts that I retain interesting of my activities.
+  I'm a Software engineer and I work mostly on JVM's languages. Sports, food and beer lover.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jacopoo47
